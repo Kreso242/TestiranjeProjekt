@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67bb8f9e-e62b-4e1c-b15a-05da929c8765" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Projekt" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Testiranje" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uv0dMfajKrb3O95eeP61MvtwPn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/kreok/IdeaProjects/LV4/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LV4" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/kreok/IdeaProjects/LV4/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67bb8f9e-e62b-4e1c-b15a-05da929c8765" name="Default Changelist" comment="" />
+      <created>1576221847857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576221847857</updated>
+      <workItem from="1576221854089" duration="4743000" />
+      <workItem from="1578079200097" duration="141000" />
+      <workItem from="1578154046279" duration="32000" />
+      <workItem from="1578413250135" duration="8524000" />
+      <workItem from="1578466832326" duration="1046000" />
+      <workItem from="1578468634012" duration="117000" />
+      <workItem from="1578470729628" duration="652000" />
+      <workItem from="1578671797147" duration="11851000" />
+      <workItem from="1578700683255" duration="1105000" />
+      <workItem from="1579005266907" duration="2348000" />
+      <workItem from="1579014127440" duration="4970000" />
+      <workItem from="1579119168778" duration="8160000" />
+      <workItem from="1579187076350" duration="2120000" />
+      <workItem from="1579273652412" duration="1064000" />
+      <workItem from="1579274780580" duration="4701000" />
+      <workItem from="1579348156252" duration="271000" />
+      <workItem from="1579351543350" duration="6589000" />
+      <workItem from="1579358258984" duration="5146000" />
+      <workItem from="1579421990187" duration="4278000" />
+      <workItem from="1579446009074" duration="3622000" />
+      <workItem from="1579449797013" duration="1542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="23" key="#Project_Structure" timestamp="1579187989311">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="23" key="#Project_Structure/0.0.1360.728@0.0.1360.728" timestamp="1579187989311" />
+    <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579357652089">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1579357652089" />
+    <state x="542" y="202" key="FileChooserDialogImpl" timestamp="1579450135696">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="542" y="202" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1579450135696" />
+    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578468755881" />
+    <state x="514" y="281" width="356" height="166" key="Github.CreateGistDialog" timestamp="1579446164829">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="514" y="281" width="356" height="166" key="Github.CreateGistDialog/0.0.1360.728@0.0.1360.728" timestamp="1579446164829" />
+    <state width="1317" height="370" key="GridCell.Tab.0.bottom" timestamp="1579449641335">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="370" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1579449641335" />
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578699353065" />
+    <state width="1317" height="370" key="GridCell.Tab.0.center" timestamp="1579449641334">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="370" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1579449641334" />
+    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578699353065" />
+    <state width="1317" height="370" key="GridCell.Tab.0.left" timestamp="1579449641334">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="370" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1579449641334" />
+    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578699353065" />
+    <state width="1317" height="370" key="GridCell.Tab.0.right" timestamp="1579449641334">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="370" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1579449641334" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578699353065" />
+    <state width="1317" height="223" key="GridCell.Tab.1.bottom" timestamp="1579358144792">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1579358144792" />
+    <state width="1317" height="223" key="GridCell.Tab.1.center" timestamp="1579358144792">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1579358144792" />
+    <state width="1317" height="223" key="GridCell.Tab.1.left" timestamp="1579358144792">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1579358144792" />
+    <state width="1317" height="223" key="GridCell.Tab.1.right" timestamp="1579358144792">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1579358144792" />
+    <state x="210" y="20" key="Maven.ArtifactSearchDialog" timestamp="1579278142384">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="210" y="20" key="Maven.ArtifactSearchDialog/0.0.1360.728@0.0.1360.728" timestamp="1579278142384" />
+    <state x="362" y="20" width="998" height="708" key="SettingsEditor" timestamp="1579450270524">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="362" y="20" width="998" height="708" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1579450270524" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578698793977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1578698793977" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1579449795042">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1579449795042" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578701175735" />
+    <state x="489" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579451791638">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="489" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.728@0.0.1360.728" timestamp="1579451791638" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579359574664">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1579359574664" />
+  </component>
+</project>
