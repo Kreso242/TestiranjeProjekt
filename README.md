@@ -1,7 +1,7 @@
-*********************************************************************************
-********************Projekt za metode i tehnike testiranja***********************
-************************programske podrške 2019./2020.***************************
-*********************************************************************************
+---------------------------------------------------------------------------------
+--------------------Projekt za metode i tehnike testiranja-----------------------
+------------------------programske podrške 2019./2020.---------------------------
+---------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ Opis testiranja aplikacije:
 			  u lokalnoj bazi
 		4.) Brisanje alarma izbaze
 
-*Testiraju se samo 4 Test Case-a jer je aplikacija osobno izrađena i još je u
+-Testiraju se samo 4 Test Case-a jer je aplikacija osobno izrađena i još je u
 izradi te ima mali broj mogućnosti gdje korisnik može nešto kliknuti ili 
 napraviti jer je svrha kalendara samo da šalje obavijesti ako to korisnik želi.
 Najbitniji dio za aplikaciju je Firebase baza podataka iz koje se dohvaćaju
