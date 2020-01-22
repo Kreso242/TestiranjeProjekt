@@ -8,7 +8,7 @@
 * korisnik nema puno mogućnosti osim postavljanja alarma jer se obavijesti dohvaćaju iz baze podataka (FireBase) kojoj on nema pristup
 
 ## Opis testiranja aplikacije:
-### koristi se:
+### Koristi se:
 * IntelliJ IDE, ver: 2019.3.1.
 * Appium automation tool, ver: 1.15.1
 * json server, ver:1.0-SNAPSHOT
@@ -18,14 +18,14 @@
 
 ### Page Object Model
 
-### testiraju se 4 Test Case-a:
+### Testiraju se 4 Test Case-a:
 * Prohodnost kroz aplikaciju
 * Postavljanje alarma
 * Testiranje baze podataka (RealM) 
   * testira se ostaju li podatci o spremljenom alarmu u lokalnoj bazi
 * Brisanje alarma izbaze
 
-##  Napomena:
+###  Napomena:
 Testiraju se samo 4 Test Case-a jer je aplikacija osobno izrađena i još je u
 izradi te ima mali broj mogućnosti gdje korisnik može nešto kliknuti ili 
 napraviti jer je svrha kalendara samo da šalje obavijesti ako to korisnik želi.
