@@ -1,6 +1,5 @@
 
-Projekt za metode i tehnike testiranja
-programske podrške 2019./2020.
+#Projekt za metode i tehnike testiranja programske podrške 2019./2020.
 
 Opis aplikacije:
 	 projekt testira mobilnu aplikaciju (Android)
