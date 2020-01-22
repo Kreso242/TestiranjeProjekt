@@ -35,7 +35,7 @@ koliko god sam pokušavao.
 
 #### Video testiranja je priložen u repozitoriju
 
-## Upute za korištenje GitHub repository-a:
+## Upute za korištenje GitHub repozitorija:
 
 
 
