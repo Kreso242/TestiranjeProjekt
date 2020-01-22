@@ -1,6 +1,4 @@
-
-# Projekt za metode i tehnike testiranja programske podrške 2019./2020.
-
+ #  Projekt za metode i tehnike testiranja programske podrške 2019./2020. :sunglasses:
 ## Opis aplikacije:
 * projekt testira mobilnu aplikaciju (Android)
 * aplikacija je osobno izrađena za jednu zajednicu
