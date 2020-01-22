@@ -33,6 +33,7 @@ Najbitniji dio za aplikaciju je Firebase baza podataka iz koje se dohvaćaju
 događaji (event), ali to nisam uspio testirati, to jest spojiti sa IntelliJ-om
 koliko god sam pokušavao.
 
+#### Video testiranja je priložen u repozitoriju
 
 ## Upute za korištenje GitHub repository-a:
 
