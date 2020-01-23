@@ -33,7 +33,18 @@ koliko god sam pokušavao.
 
 #### Video testiranja je priložen u repozitoriju
 
-## Upute za korištenje GitHub repozitorija:
+## Upute za korištenje:
+
+1. Instalacija IntelliJ okruženja
+* [IntelliJ download link](https://www.jetbrains.com/idea/download/#section=windows)
+2. Instalacija Appium-a
+* [Appium download link](http://appium.io/)
+3. Instalacija Android Studia (zbog potreba emulatora)
+* [Android Studio download link](https://developer.android.com/studio)
+4. Java Development Kit
+* [JDK download link](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+5. TestNG dependency
+* [TestNG dependency](https://mvnrepository.com/artifact/org.testng/testng/7.0.0)
 
 
 
