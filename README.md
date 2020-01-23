@@ -32,7 +32,8 @@ Najbitniji dio za aplikaciju je Firebase baza podataka iz koje se dohvaćaju
 događaji (event), ali to nisam uspio testirati, to jest spojiti sa IntelliJ-om
 koliko god sam pokušavao.
 
-#### Video testiranja je priložen u repozitoriju
+#### [Video testiranja](https://drive.google.com/open?id=1l4B-num28CcAjrfILMhNwafardPNzbln)
+#### [APK download](https://drive.google.com/open?id=1zwnc1abYkW1fAh9CWMkp3ybHo3vmtRar)
 
 ## Instalacija i pokretanje:
 
