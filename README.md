@@ -13,6 +13,7 @@
 * testNG, ver: 7.0.0
 * maven, ver: 2.19
 * emulator Android Studia
+* Node.js
 
 ### Page Object Model
 
@@ -33,7 +34,7 @@ koliko god sam pokušavao.
 
 #### Video testiranja je priložen u repozitoriju
 
-## Upute za korištenje:
+## Instalacija i pokretanje:
 
 1. Instalacija IntelliJ okruženja
 * [IntelliJ download link](https://www.jetbrains.com/idea/download/#section=windows)
@@ -45,6 +46,10 @@ koliko god sam pokušavao.
 * [JDK download link](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 5. TestNG dependency
 * [TestNG dependency](https://mvnrepository.com/artifact/org.testng/testng/7.0.0)
+6. Node.js
+* [Node.js download link](https://nodejs.org/en/download/)
+7. Upute za pokretanje projekta
+* [Link za upute](https://drive.google.com/open?id=1dJX9cYHiPAs-K3DrkYfgPi1khmX0xHns)
 
 
 
