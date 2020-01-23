@@ -22,7 +22,7 @@
 * Postavljanje alarma
 * Testiranje baze podataka (RealM) 
   * testira se ostaju li podatci o spremljenom alarmu u lokalnoj bazi
-* Brisanje alarma izbaze
+* Brisanje alarma iz baze
 
 ###  Napomena:
 Testiraju se samo 4 Test Case-a jer je aplikacija osobno izrađena i još je u
