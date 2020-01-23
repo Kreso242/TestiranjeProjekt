@@ -4,7 +4,6 @@
 * aplikacija je osobno izrađena za jednu zajednicu
 * u aplikaciji se testira rad kalendara s obavijestima
 * korisnik nema puno mogućnosti osim postavljanja alarma jer se obavijesti dohvaćaju iz baze podataka (FireBase) kojoj on nema pristup
-////test
 
 ## Opis testiranja aplikacije:
 ### Koristi se:
