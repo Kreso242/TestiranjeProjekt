@@ -50,7 +50,7 @@ koliko god sam pokušavao.
 6. Node.js
 * [Node.js download link](https://nodejs.org/en/download/)
 7. Upute za pokretanje projekta
-* [Link za upute](https://drive.google.com/open?id=1dJX9cYHiPAs-K3DrkYfgPi1khmX0xHns)
+* [Link za upute](https://drive.google.com/open?id=1MrTfxTdMqfhB2NZfq_AW9wjqj0urEnFr)
 
 
 
